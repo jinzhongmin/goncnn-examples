@@ -16,10 +16,13 @@ github.com/hashicorp/hcl v1.0.0/go.mod h1:E5yfLk+7swimpb2L/Alb/PJmXilQ/rhwaUYs4T
 github.com/inconshreveable/mousetrap v1.0.0/go.mod h1:PxqpIevigyE2G7u3NXJIT2ANytuPF1OarO4DADm73n8=
 github.com/jinzhongmin/goffi v0.0.0-20230818123902-095a9c11e950 h1:YJb3ZeTvYBtoEbDV1poe5ELLZTlzlH2gOkPuXMAUKB8=
 github.com/jinzhongmin/goffi v0.0.0-20230818123902-095a9c11e950/go.mod h1:ry8s3l1SC2gpza1bFbOIb0MmBurtQmQVQeJVZJBTDkI=
+github.com/jinzhongmin/goffi v0.0.0-20230928233304-3a627488828c h1:hGdQwtK9Mwjw0yRcBQg7RvFPsmMSjbp0CGeAVNirQFA=
+github.com/jinzhongmin/goffi v0.0.0-20230928233304-3a627488828c/go.mod h1:nRzr+1loaorDpwG0kSqlLSskgwGndzeVlmE8qKpLajE=
 github.com/jinzhongmin/goncnn v0.0.0-20230818223935-019978489ce2 h1:/WBA9pxNNJT6bo7xJYceCA9AqBys4JY/Bw5/qwmxxJs=
 github.com/jinzhongmin/goncnn v0.0.0-20230818223935-019978489ce2/go.mod h1:J+qibGLQXTBzUNhbp4+yZvOaZV1mXvw1MNjmsyIVGtE=
 github.com/jinzhongmin/usf v0.0.0-20230818115909-72f118b9d216 h1:YYHEsbD58aDjrVQIHtVFceHg1tHB3nHAh2R0Bsst0Yw=
 github.com/jinzhongmin/usf v0.0.0-20230818115909-72f118b9d216/go.mod h1:bbc9ZPecQ4VigHV681E/4i8kOuuqGSgMevKqA7D1EYc=
+github.com/jinzhongmin/usf v0.0.0-20230831102133-dbf66a6888b9/go.mod h1:bbc9ZPecQ4VigHV681E/4i8kOuuqGSgMevKqA7D1EYc=
 github.com/magiconair/properties v1.8.0/go.mod h1:PppfXfuXeibc/6YijjN8zIbojt8czPbwD3XqdrwzmxQ=
 github.com/mitchellh/go-homedir v1.1.0/go.mod h1:SfyaCUpYCn1Vlf4IUYiD9fPX4A5wJrkLzIz1N1q0pr0=
 github.com/mitchellh/mapstructure v1.1.2/go.mod h1:FVVH3fgwuzCH5S8UJGiWEs2h04kUh9fWfEaFds41c1Y=
