@@ -5,8 +5,8 @@ go 1.20
 require (
 	github.com/anthonynsimon/bild v0.13.0
 	github.com/fogleman/gg v1.3.0
-	github.com/jinzhongmin/goffi v0.0.0-20230928233304-3a627488828c
-	github.com/jinzhongmin/goncnn v0.0.0-20230818223935-019978489ce2
+	github.com/jinzhongmin/goffi v0.0.0-20231008052451-133422fc6331
+	github.com/jinzhongmin/goncnn v0.0.0-20231008053904-a0016a64c71a
 	github.com/jinzhongmin/usf v0.0.0-20230831102133-dbf66a6888b9
 )
 
